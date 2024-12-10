@@ -29,6 +29,7 @@
     {/block}
   </div>
 </div>
+{* retrait du footer copyright
 <div class="footer-container">
   <div class="container">
     <div class="row">
@@ -54,3 +55,4 @@
     </div>
   </div>
 </div>
+*}
